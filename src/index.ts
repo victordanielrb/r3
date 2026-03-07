@@ -23,7 +23,7 @@ const cliente3 = new Cliente("333.333.333-33", "Barbara", "barbara@email.com", n
 cliente3.adicionarTelefone(new Telefone("77777777", "77777777"));
 cliente3.adicionarTelefone(new Telefone("77777777", "77777777"));
 
-const cliente4 = new Cliente("444.444.444-44", "Marcia", "marcia@email.com", new Endereco("SP", "Sao Jose dos Campos", "Av Andromeda", "452"));
+const cliente4 = new Cliente("444.444.444-44", "Caça Rato", "rato@email.com", new Endereco("SP", "Sao Jose dos Campos", "Av Andromeda", "452"));
 cliente4.adicionarTelefone(new Telefone("66666666", "66666666"));
 cliente4.adicionarTelefone(new Telefone("66666666", "66666666"));
 
